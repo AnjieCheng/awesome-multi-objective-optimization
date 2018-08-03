@@ -164,9 +164,10 @@ A curated list of awesome multi-objective optimization research resources. Inspi
 - A ranking method based on the R2 indicator for many-objective optimization. [[pdf]](https://www.cs.cinvestav.mx/~EVOCINV/publications/2013/conferences/cec2013-alan-final.pdf.gz)
   - Díaz-Manríquez, Alan, et al.  *CEC 2013*
 
-
+<!---
 ### Bradient Based
 ### Others
+-->
 
 ## License
 
