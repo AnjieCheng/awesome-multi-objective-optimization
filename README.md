@@ -75,6 +75,7 @@ A curated list of awesome multi-objective optimization research resources. Inspi
 - Importance sampling for reinforcement learning with multiple objectives. [[pdf]](https://dspace.mit.edu/bitstream/handle/1721.1/5568/AITR-2001-003.pdf?sequence=2)
   - CR Shelton.
 
+<!---
 #### FQI(fitted Q-iteration) Extension
 
 ### TBC
@@ -113,7 +114,7 @@ A curated list of awesome multi-objective optimization research resources. Inspi
 
 - Softmax exploration strategies for multiobjective reinforcement learning
 
-
+-->
 
 ### Evolutionary Algorithms
 #### Survey
