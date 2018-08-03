@@ -16,11 +16,7 @@ A curated list of awesome multi-objective optimization research resources. Inspi
     - [Dominance Based](#dominance-based)
     - [Aggregation Based](#aggregation-based)
     - [Indicator Based](#indicator-based)
-  - [Gradient Based](#gradient-based)
-  - [Others](#others)
-- [Libraries](#libraries)
-- [Benchmarks](#benchmarks)
-- [Talks](#communities)
+
 
 
 
